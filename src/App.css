@@ -23,6 +23,25 @@
   color: #61dafb;
 }
 
+.persons {
+  height: 100px;
+  background-color: #cccc;
+  width: 100px;
+  padding: 100px;
+  margin: 50p;
+  margin-left: 10px;
+  display: flex;
+  float: left;
+}
+
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
